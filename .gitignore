@@ -1,0 +1,58 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Prettier
+.prettierrc
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test & coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+*.cover
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System logs
+*.log
+
+# Tkinter image cache (if you save images locally)
+*.png
+*.jpg
+*.jpeg
+
+# Optional - ignore snapshot folders
+snapshots/
+captures/

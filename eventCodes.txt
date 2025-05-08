@@ -1,0 +1,21 @@
+Event Codes
+Buttons:
+- X: 307
+- Y: 308
+- B: 305
+- A: 304
+- Left Button: 310
+- Right Button: 311
+- Back: 314
+- Start: 315
+
+Triggers:
+- Left Trigger: 2
+- Right Trigger: 5
+
+D-Pad:
+- D-Pad: 16 & 17
+
+Joysticks:
+- Left Joystick: 0 & 1
+- Right Joystick: 3 & 4

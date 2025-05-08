@@ -1,0 +1,9 @@
+colorzero==2.0
+evdev==1.9.1
+gpiozero==2.0.1
+imutils==0.5.4
+numpy==2.2.4
+opencv-python==4.11.0.86
+pillow==11.2.1
+pyserial==3.5
+RPi.GPIO==0.7.1
